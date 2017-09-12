@@ -1,6 +1,6 @@
 # Blacksites
 ### Cursos: Udemy - Platzi - Codigo Facilito - V2Brain - Etc 
-
+#### Cada semana subimos cursos nuevos y modernos. Siguenos en Facebook:
 [![N|Solid](https://icon-icons.com/icons2/478/PNG/128/facebook_47004.png)](https://www.facebook.com/blacksiteprogramacion/)
 
 ## --- Udemy ---
